@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color :lightgreen;
+    margin: 10px;
+}
+
+img.logo
+    {   
+        float : center;
+        max-width : 10%;
+        max-height : 10%;
+    }

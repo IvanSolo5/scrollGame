@@ -1,0 +1,12 @@
+img.logo
+    {   
+        float : center;
+        max-width : 10%;
+        max-height : 10%;
+    }
+
+    p
+    {
+        font-size: 32px;
+    }
+    
